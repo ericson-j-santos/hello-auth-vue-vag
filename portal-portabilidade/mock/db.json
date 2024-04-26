@@ -1,0 +1,162 @@
+{
+    "demandasFinalizadas": [
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "matriculaUnidade": 8024,
+            "nsu": "11148591",
+            "id": 1
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 20,
+            "motivosDescricao": "Nao houve tempo hábil devido a problema",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "matriculaUnidade": 8024,
+            "nsu": "11148745",
+            "id": 2
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "nsu": "11148746",
+            "id": 3
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "nsu": "11148747",
+            "id": 4
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "nsu": "11148748",
+            "id": 5
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "nsu": "11148749",
+            "id": 6
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "nsu": "11148750",
+            "id": 7
+        },
+        {
+            "demandaEfetivada": "N",
+            "motivosID": 18,
+            "motivosDescricao": "Recusa do cliente por Instisfação com o produto/serviço",
+            "demandaTipo": "Retenção",
+            "matricula": "c139258",
+            "nsu": "11148751",
+            "id": 8
+        }
+    ],
+    "demandasVinculadas": [],
+    "teds": [],
+    "simulacoes": [
+        {
+            "resultadosA":[
+                {
+                    "name": "FAIXA A",
+                    "troco": "R$ 20.162,71",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 136.354,65",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                },
+                {
+                    "name": "PROPOSTA 1",
+                    "troco": "R$ 22.500,00",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 140.000,00",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                },
+                {
+                    "name": "PROPOSTA 2",
+                    "troco": "R$ 23.000,00",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 145.000,00",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                },
+                {
+                    "name": "PROPOSTA 3",
+                    "troco": "R$ 20.162,71",
+                    "taxa": "1,18%",
+                    "totalContrato": "R$ 20.162,71",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                }
+            ]
+        },
+        {
+            "resultadosB":[
+                {
+                    "name": "FAIXA B",
+                    "troco": "R$ 26.000,00",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 150.000,00",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                },
+                {
+                    "name": "PROPOSTA 4",
+                    "troco": "R$ 27.000,00",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 152.000,00 ",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                },
+                {
+                    "name": "PROPOSTA 5",
+                    "troco": "R$ 28.000,00",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 153.000,00",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                },
+                {
+                    "name": "PROPOSTA 6",
+                    "troco": "R$ 30.000,00",
+                    "taxa": "1,2%",
+                    "totalContrato": "R$ 155.000,00",
+                    "iof": "R$ 0,00",
+                    "cetMes": "1,18%",
+                    "cetAno": "15,39%"
+                }
+            ]
+        }
+    ]
+}
